@@ -1,14 +1,12 @@
 # 👋 嗨！我是 @youzhiqingw  
-![Misaka Mikoto](https://i.imgur.com/xyz123.gif) *“电击使Lv.5御坂美琴参上！我的代码将像超电磁炮一样精准！”*
+![Misaka Mikoto](https://i.imgur.com/xyz123.gif)
 
 ---
 
 ## 🌟 关于我  
 - **代号**: youzhiqingw  
 - **兴趣**: 编程、探索二次元世界、解锁新技能！  
-- **当前状态**: 正在用代码构建我的“学园都市”，灵感来自《某科学的超电磁炮》！  
-- **座右铭**: *“代码如电磁波，穿透一切障碍！”* —— 致敬御坂美琴  
-- **我的小站**: [git](https://gitwork.top)（将于2025年8月关闭，敬请期待新项目！）  
+- **我的小站**: [git](https://gitwork.top)
 
 ---
 
@@ -25,13 +23,10 @@
   - 空白兄妹（《游戏人生》）  
   - 风灵玉秀（《风灵玉秀》）  
 ---
-
-## 🌐 我的小宇宙  
-- **个人网站**: [youzhiqingw.top](https://youzhiqingw.top)（将于2025年8月关闭，快来围观！）  
 - **网站搭建推荐**:  
-  - [W3Schools](https://www.w3schools.com) - HTML/CSS入门魔法  
-  - [GitHub Pages](https://pages.github.com) - 免费开启你的“次元之门”  
-  - [Vercel](https://vercel.com) - 快速部署你的“电磁炮”项目  
+  - [W3Schools](https://www.w3schools.com) 
+  - [GitHub Pages](https://pages.github.com) -
+  - [Vercel](https://vercel.com) 
 
 ---
 
@@ -51,7 +46,7 @@
 - [SQLZoo](https://sqlzoo.net) - 互动练习，像玩游戏一样学SQL  
 
 ### 算法设计  
-- [LeetCode](https://leetcode.com) - 挑战《游戏人生》级别的难题  
+- [LeetCode](https://leetcode.com) 
 - [《算法图解》](https://book.douban.com/subject/26979890/) - 超有趣的入门书  
 
 ### 软件工程  
@@ -60,5 +55,5 @@
 
 ### 物联网（IoT）  
 - [Arduino](https://www.arduino.cc) - 硬件魔法入门  
-- [Raspberry Pi Projects](https://projects.raspberrypi.org) - 小型IoT实验基地  
+- [Raspberry Pi Projects](https://projects.raspberrypi.org) - 
 
