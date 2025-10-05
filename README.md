@@ -8,7 +8,7 @@
 欢迎来到我的GitHub！我是一名充满激情的全栈开发者，致力于使用不同技术开发有趣的项目。以下是一些关于我的信息：
 
 ### 🌱 目前学习
-- **编译器原理**、**操作系统内核**和**高性能网络通信**。
+- **Vue3**、**Django**和**Node.js**。
 
 ### 💬 可以问我关于
 - **全栈开发**（从前端到后端）、**跨平台客户端解决方案**（C#、C++、Java、Python）和**CI/CD最佳实践**。
@@ -550,29 +550,17 @@
 
 ## 📬 与我联系
 <div align="center">
-	<img src="https://img.shields.io/badge/QQ-235268680-blue?logo=qq&color=blue" style="margin-right:10px" align="center" height="" width="" />
+	<img src="https://img.shields.io/badge/QQ-2118694240-blue?logo=qq&color=blue" style="margin-right:10px" align="center" height="" width="" />
 	<img src="https://img.shields.io/badge/Wechat-youzhiqingw-blue?logo=wechat&color=green" align="center" height="" width="" />
 </div>
 <div align="center">
-	<a href="mailto:youzhiqingw@qq.com"><img src="https://img.shields.io/badge/Email-youzhiqingw%40qq.com-blue?logo=maildotru&color=purple" style="margin-right:10px" align="center" height="" width="" /></a>
+	<a href="mailto:youzhiqingw@outlook.com"><img src="https://img.shields.io/badge/Email-youzhiqingw%40outlook.com-blue?logo=maildotru&color=purple" style="margin-right:10px" align="center" height="" width="" /></a>
 	<a href="mailto:youzhiqingw@gmail.com"><img src="https://img.shields.io/badge/Email-youzhiqingw%40gmail.com-red?logo=maildotru&color=red" align="center" height="" width="" /></a>
-	<a href="mailto:youzhiqingw@outlook.com"><img src="https://img.shields.io/badge/Email-youzhiqingw%40outlook.com-blue?logo=maildotru&color=yellow" align="center" height="" width="" /></a>
-</div>
-<div align="center">
-	<a href="mailto:youzhiqingw@126.com"><img src="https://img.shields.io/badge/Email-youzhiqingw%40126.com-blue?logo=maildotru&color=darkgreen" style="margin-right:10px" align="center" height="" width="" /></a>
-	<a href="mailto:youzhiqingw@163.com"><img src="https://img.shields.io/badge/Email-youzhiqingw%40163.com-red?logo=maildotru&color=darkred" align="center" height="" width="" /></a>
-	<a href="https://www.pixiv.net/users/90591249" target="_blank"><img src="https://img.shields.io/badge/Pixiv-90591249-blue?logo=pixiv&color=blue" style="margin-right:10px" align="center" height="" width="" /></a>
 </div>
 <div align="center">
 	<a href="https://github.com/youzhiqingw/" target="_blank"><img src="https://img.shields.io/badge/GitHub-youzhiqingw-blue?logo=github&color=black" align="center" height="" width="" /></a>
-	<a href="https://gitlab.com/youzhiqingw/" target="_blank"><img src="https://img.shields.io/badge/GitLab-youzhiqingw-blue?logo=GitLab&color=orange" align="center" height="" width="" /></a>
-	<a href="https://dev.to/youzhiqingw" target="_blank"><img src="https://img.shields.io/badge/DEV-youzhiqingw-black?logo=dev.to&color=black" style="margin-right:10px" align="center" height="" width="" /></a>
 </div>
-<div align="center">
-	<a href="https://t.me/youzhiqingw" target="_blank"><img src="https://img.shields.io/badge/Telegram-@youzhiqingw-purple?logo=telegram&color=blue" align="center" height="" width="" /></a>
-	<a href="https://discord.com/users/1214336466927222815" target="_blank"><img src="https://img.shields.io/badge/Discord-1214336466927222815-purple?logo=discord&color=purple" align="center" height="" width="" /></a>
-	<a href="https://x.com/youzhiqingw" target="_blank"><img src="https://img.shields.io/badge/Twitter-youzhiqingw-blue?logo=x&color=black" align="center" height="" width="" /></a>
-</div>
+
 
 ## 📊 GitHub统计
 <table align="center">
@@ -597,143 +585,6 @@
 	</tr>
 </table>
 
-## 🎶 我最喜欢的音乐
-<div align="center">
-	<table>
-		<tr>
-			<td width="25%" valign="middle">
-				<div align="center">
-					<strong>ハロ/ハワユ</strong>
-					<p>鹿乃</p>
-				</div>
-			</td>
-			<td width="25%" valign="middle">
-				<div align="center">
-					<strong>I Really Want to Stay at Your House</strong>
-					<p>Samuel Kim, Lorien</p>
-				</div>
-			</td>
-			<td width="25%" valign="middle">
-				<div align="center">
-					<strong>リテラチュア</strong>
-					<p>上田麗奈</p>
-				</div>
-			</td>
-			<td width="25%" valign="middle">
-				<div align="center">
-					<strong>Lockdown (feat. NEONA)</strong>
-					<p>PIKASONIC, Tatsunoshin, NEONA</p>
-				</div>
-			</td>
-		</tr>
-		<tr>
-			<td width="25%" valign="middle">
-				<div align="center">
-					<p>https://github.com/user-attachments/assets/cb607e27-e684-4146-b162-e6367928d6a8</p>
-				</div>
-			</td>
-			<td width="25%" valign="middle">
-				<div align="center">
-					<p>https://github.com/user-attachments/assets/dcd8f6cb-024b-40d8-81e4-7791e63fffb9</p>
-				</div>
-			</td>
-			<td width="25%" valign="middle">
-				<div align="center">
-					<p>https://github.com/user-attachments/assets/2c1506cb-80f3-4726-8deb-f19116df741e</p>
-				</div>
-			</td>
-			<td width="25%" valign="middle">
-				<div align="center">
-					<p>https://github.com/user-attachments/assets/a171d705-ac65-45b7-9a64-0fdd42a716a6</p>
-				</div>
-			</td>
-		</tr>
-		<tr>
-			<td width="25%" valign="middle">
-				<div align="center">
-					<strong>ヨスズメロディハート</strong>
-					<p>森羅万象</p>
-				</div>
-			</td>
-			<td width="25%" valign="middle">
-				<div align="center">
-					<strong>DAYBREAK FRONTLINE</strong>
-					<p>鹿乃</p>
-				</div>
-			</td>
-			<td width="25%" valign="middle">
-				<div align="center">
-					<strong>For Riddles, for Wonders</strong>
-					<p>HOYO-MiX</p>
-				</div>
-			</td>
-			<td width="25%" valign="middle">
-				<div align="center">
-					<strong>独角</strong>
-					<p>UnicornPhantom</p>
-				</div>
-			</td>
-		</tr>
-		<tr>
-			<td width="25%" valign="middle">
-				<div align="center">
-					<p>https://github.com/user-attachments/assets/5fc42977-e158-4b6f-a4d2-5d51a9244a20</p>
-				</div>
-			</td>
-			<td width="25%" valign="middle">
-				<div align="center">
-					<p>https://github.com/user-attachments/assets/a3d97a55-3024-4fa7-9a7c-d3dda83a0243</p>
-				</div>
-			</td>
-			<td width="25%" valign="middle">
-				<div align="center">
-					<p>https://github.com/user-attachments/assets/01f15396-7a5c-4c4e-ba3e-5e4681a2da2f</p>
-				</div>
-			</td>
-			<td width="25%" valign="middle">
-				<div align="center">
-					<p>https://github.com/user-attachments/assets/25f4926d-8e17-42b3-adbf-d751f005d00c</p>
-				</div>
-			</td>
-		</tr>
-	</table>
-</div>
-
-## 🥂 幻想郷で一緒に「乾杯」しよう！
-<div align="center">
-	<table>
-		<tr>
-			<td width="50%" valign="middle">
-				<div align="center">
-					<strong>【東方ヴォーカルPV】ははうさぎ（Vo：あよ） 【森羅万象公式】</strong>
-					<a href="https://www.youtube.com/watch?v=o3YeC-LFNGo">
-						<p>Watch on YouTube</p>
-					</a>
-				</div>
-			</td>
-			<td width="50%" valign="middle">
-				<div align="center">
-					<strong>【東方Vocal PV】 花月夜 「Yonder Voice」【Subbed】</strong>
-					<a href="https://www.youtube.com/watch?v=7LthTzz26Hc">
-						<p>Watch on YouTube</p>
-					</a>
-				</div>
-			</td>
-		</tr>
-		<tr>
-			<td width="50%" valign="middle">
-				<div align="center">
-					<p>https://github.com/user-attachments/assets/f8aa282e-5481-4220-93cd-9fed4e0807fa</p>
-				</div>
-			</td>
-			<td width="50%" valign="middle">
-				<div align="center">
-					<p>https://github.com/user-attachments/assets/f8cf4450-19a8-44fa-bee3-85c9e678e52f</p>
-				</div>
-			</td>
-		</tr>
-	</table>
-</div>
 
 ## 🎨 我最喜欢的插画
 <div align="center">
