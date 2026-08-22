@@ -17,18 +17,9 @@
 > "代码不仅仅是我们书写的东西，更是我们解决问题、连接世界的方式。"
 
 - **熟练** Python、Vue.js、TypeScript 和 MySQL
-- **擅长** 使用 UniApp 和 H5 构建跨平台应用
 - **不断探索** 新技术和最佳实践
 - **注重细节**，关注代码质量和用户体验
 - **终身学习者**，享受解决复杂问题的过程
-
----
-
-## 📊 LeetCode 统计
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/youzhiqingw?theme=light&font=Sans%20Serif&ext=heatmap" alt="LeetCode 统计" />
-</div>
 
 ---
 
@@ -64,17 +55,6 @@
 
 ---
 
-## 💬 开发者理念
-
-> <h3 align="center">✨ "代码不仅仅是我们书写的东西，更是我们解决问题、连接世界的方式。"</h3>
-
-- 🤝 **贡献**：乐于参与开源，欢迎一起共建有趣的项目
-- 🌱 **正在学习**：编译器原理 • 操作系统内核 • 高性能网络通信
-- 💬 **可以问我**：全栈开发（前端到后端）• 跨平台客户端（C#、C++、Java、Python）• CI/CD 最佳实践
-- ⚡ **趣事**：我相信**优雅的代码是一种艺术**，就像我最喜欢的 ACG 作品一样。我在**高等数学**和创造完美软件架构中都能找到同样的乐趣。
-
----
-
 ## 🚀 核心技术栈
 
 <p align="center">
@@ -100,17 +80,10 @@
 
 ## 📬 联系我
 
-<div align="center">
-
-|                                                                                                                                                        |                                                                                                                                |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                                                                        | [![GitHub](https://img.shields.io/badge/GitHub-youzhiqingw-black?logo=github&style=for-the-badge)](https://github.com/youzhiqingw/) |
-|                                                                                                                                                        | [![GitLab](https://img.shields.io/badge/GitLab-youzhiqingw-orange?logo=gitlab&style=for-the-badge)](https://gitlab.com/youzhiqingw/) |
-|                     [![QQ](https://img.shields.io/badge/QQ-235268680-blue?logo=qq&style=flat-square)](tencent://message/?uin=235268680)                     |   [![Pixiv](https://img.shields.io/badge/Pixiv-90591249-blue?logo=pixiv&style=flat-square)](https://www.pixiv.net/users/90591249)   |
-|              [![Telegram](https://img.shields.io/badge/Telegram-@youzhiqingw-blue?logo=telegram&style=flat-square)](https://t.me/youzhiqingw)              |      [![DEV](https://img.shields.io/badge/DEV.to-youzhiqingw-black?logo=dev.to&style=flat-square)](https://dev.to/youzhiqingw)      |
-| [![Discord](https://img.shields.io/badge/Discord-1214336466927222815-purple?logo=discord&style=flat-square)](https://discord.com/users/1214336466927222815) |      [![X/Twitter](https://img.shields.io/badge/Twitter-youzhiqingw-black?logo=x&style=flat-square)](https://x.com/youzhiqingw)      |
-
-</div>
+<p align="center">
+  <a href="https://github.com/youzhiqingw/"><img src="https://img.shields.io/badge/GitHub-youzhiqingw-black?logo=github&style=for-the-badge" alt="GitHub" /></a>
+  <a href="mailto:linuxai@qq.com"><img src="https://img.shields.io/badge/Email-linuxai@qq.com-D14836?logo=gmail&style=for-the-badge" alt="Email" /></a>
+</p>
 
 ---
 
