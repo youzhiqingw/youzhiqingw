@@ -16,7 +16,7 @@
 
 > "代码不仅仅是我们书写的东西，更是我们解决问题、连接世界的方式。"
 
-- **精通** Python、Vue.js、TypeScript 和 MySQL
+- **熟练** Python、Vue.js、TypeScript 和 MySQL
 - **擅长** 使用 UniApp 和 H5 构建跨平台应用
 - **不断探索** 新技术和最佳实践
 - **注重细节**，关注代码质量和用户体验
@@ -47,20 +47,7 @@
 
 ---
 
-## 📊 GitHub 统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youzhiqingw&show_icons=true&theme=tokyonight&hide_border=true&icon_color=f472b6&title_color=60a5fa&text_color=cbd5e1" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youzhiqingw&layout=compact&theme=tokyonight&hide_border=true&title_color=60a5fa&text_color=cbd5e1" height="170" />
-</p>
-
----
-
 ## 🔥 贡献活动
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=youzhiqingw&theme=blueberry&hide_border=true" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=youzhiqingw&theme=react-dark&hide_border=true&area=true" />
@@ -127,29 +114,13 @@
 
 ---
 
-## 🎶 我最喜欢的音乐
-
-<div align="center">
-
-| 🎵 fripSide - LEVEL5-judgelight- | 🎵 花たん - only my railgun | 🎵 九三、浅影阿 - 北京东路的日子 | 🎵 浅影阿 - 放马川 |
-| :------------------------------: | :-------------------------: | :------------------------------: | :----------------: |
-|           🎧 fripSide           |          🎧 花たん          |         🎧 九三、浅影阿         |     🎧 浅影阿     |
-
-| 🎵 浅影阿 - 散场夏天 | 🎵 浅影阿 - 我饮人间一碗酒 | 🎵 浅影阿 - 游京 |
-| :------------------: | :------------------------: | :--------------: |
-|      🎧 浅影阿      |         🎧 浅影阿         |    🎧 浅影阿    |
-
-</div>
-
----
-
 ## 🎨 我喜欢的插画
 
 <p align="center">
   <img src="img/御坂美琴8.png" width="22%" style="border-radius:10px; margin:4px;" alt="御坂美琴" />
   <img src="img/御坂美琴9.png" width="22%" style="border-radius:10px; margin:4px;" alt="御坂美琴" />
   <img src="img/御坂美琴20.png" width="22%" style="border-radius:10px; margin:4px;" alt="御坂美琴" />
-  <img src="img/御坂美琴43.png" width="22%" style="border-radius:10px; margin:4px;" alt="御坂美琴" />
+  <img src="img/御坂美琴43.jpg" width="22%" style="border-radius:10px; margin:4px;" alt="御坂美琴" />
 </p>
 
 ---
